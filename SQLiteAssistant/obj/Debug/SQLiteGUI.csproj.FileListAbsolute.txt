@@ -1,0 +1,11 @@
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\bin\Debug\SQLiteGUI.exe
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\bin\Debug\SQLiteGUI.pdb
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\bin\Debug\SQLite.NET.dll
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\obj\Debug\SQLiteGUI.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\obj\Debug\SQLiteGUI.About.resources
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\obj\Debug\SQLiteGUI.GUI.resources
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\obj\Debug\SQLiteGUI.Help.resources
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\obj\Debug\SQLiteGUI.Properties.Resources.resources
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\obj\Debug\SQLiteGUI.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\obj\Debug\SQLiteGUI.exe
+D:\Projects\VisualStudio\SQLiteGUI\SQLiteGUI\obj\Debug\SQLiteGUI.pdb

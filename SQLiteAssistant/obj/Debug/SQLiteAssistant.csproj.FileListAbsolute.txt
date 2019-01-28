@@ -1,0 +1,16 @@
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\bin\Debug\SQLiteAssistant.exe.config
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.csprojResolveAssemblyReference.cache
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.Properties.Resources.resources
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.csproj.GenerateResource.Cache
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\bin\Debug\SQLiteAssistant.exe.manifest
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\bin\Debug\SQLiteAssistant.application
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\bin\Debug\SQLiteAssistant.exe
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\bin\Debug\SQLiteAssistant.pdb
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\bin\Debug\SQLite.NET.dll
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.About.resources
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.frmSQLite.resources
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.Help.resources
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.exe.manifest
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.application
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.exe
+D:\Projects\VisualStudio\SQLiteAssistant\SQLiteAssistant\obj\Debug\SQLiteAssistant.pdb
